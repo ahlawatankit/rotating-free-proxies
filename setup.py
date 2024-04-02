@@ -30,7 +30,7 @@ setup(
         "attrs > 16.0.0",
         "six",
         "typing",
-        "beautifulsoup4==4.8.2",
+        "beautifulsoup4 > 4.11.0",
         "requests",
     ],
     classifiers=[
